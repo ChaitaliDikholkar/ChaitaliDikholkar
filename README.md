@@ -34,7 +34,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Analyzing Ride share data (for year 2019-2020 Q1) (https://github.com/ChaitaliDikholkar/Chaitali-The-Analyst/blob/main/2019-20Q1_ridedata_analysis.R)
+### Analyzing Ride share data (for year 2019-2020 Q1) 
 **Code:** [`Analyzing Ride share data (for year 2019-2020 Q1)`](https://github.com/ChaitaliDikholkar/Chaitali-The-Analyst/blob/main/2019-20Q1_ridedata_analysis.R)
 
 **Goal:** To determine how casual users and member differ.
