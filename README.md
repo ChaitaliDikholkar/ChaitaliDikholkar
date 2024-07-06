@@ -6,7 +6,7 @@
   SQL and R programming, which I believe will be valuable assets in my role as a data analyst.n my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 - I’m looking to collaborate on a well known organization, to upskill myself. Where, I get a full opportunity to learn more about data analytics, collaborate with co-workers and work on more challenging projects.
   
-- 📫 How to reach me My CV in [pdf](https://github.com/ChaitaliDikholkar/ChaitaliDikholkar/blob/main/Chaitali57.pdf).
+- 📫 How to reach me My CV in [pdf](https://github.com/ChaitaliDikholkar/ChaitaliDikholkar/blob/main/ChaitaliDikholkar_resume_DataAnalyst.pdf).
 
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
