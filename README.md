@@ -71,9 +71,7 @@ July 2014 - July 2017
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate]() (July 2024) (Coursera - Google)
-- [Tableau]() (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science]() (Feb 2023) (Coursera - University of Colorado Boulder)
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/3e34d619d60d04d1d6a629b0ffc277cf) (July 2024) (Coursera - Google)
 
 ## Contacts
 - LinkedIn: [@chaitalidikholkar](www.linkedin.com/in/chaitalidikholkar/)
