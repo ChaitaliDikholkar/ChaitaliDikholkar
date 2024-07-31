@@ -3,7 +3,7 @@
 -  Hi, I’m @ChaitaliDikholkar, I have developed a strong foundation in the computer sciences and a passion for using data to uncover meaningful insights. 
 - I’m interested in bring my technical and analytical skills to the field of data science as an entry-level data analyst. During my studies, I honed my
   ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in data cleansing, stastical programming,
-  SQL and R programming, which I believe will be valuable assets in my role as a data analyst.n my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+  SQL and R programming, which I believe will be valuable assets in my role as a data analyst. In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 - I’m looking to collaborate on a well known organization, to upskill myself. Where, I get a full opportunity to learn more about data analytics, collaborate with co-workers and work on more challenging projects.
   
 - 📫 How to reach me My CV in [pdf](https://github.com/ChaitaliDikholkar/ChaitaliDikholkar/blob/main/ChaitaliDikholkar_resume_DataAnalyst.pdf).
